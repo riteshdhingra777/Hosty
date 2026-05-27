@@ -1,0 +1,8 @@
+ashu.json
+.env
+node_modules
+node_modules/
+terminal.txt
+.codex
+stitch_exports/
+.DS_Store
